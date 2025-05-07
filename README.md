@@ -33,4 +33,3 @@ python app.py
 ```
 Created by Shruti Swarupa Dhar
 Feel free to fork, use, and improve the project. Contributions are welcome!
----
